@@ -1,0 +1,37 @@
+body {
+    margin: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.avatar {
+    width:150px;
+    position: relative;
+    align-self: left;
+    border-radius: 100%;
+    
+
+}
+
+.card {
+    background-color: rgba(177, 109, 241, 0.904);
+    border: 20px dotted ;
+    border-radius: 25px;
+    border-style:ridge;
+    display: flex;
+    padding:50px;
+    margin-left: 30px;
+    width:400px;
+    justify-content: space-around;
+}
+.about {
+    margin-left: 50px;
+    background-color: lightsteelblue;
+    border: 1px dotted;
+    border-radius: 10px ;
+    width: 600px;
+    padding-right: 30px;
+    padding-left: 30px;
+    justify-content: center;
+}
+
+
